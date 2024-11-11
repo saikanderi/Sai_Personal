@@ -10,3 +10,7 @@
 git init    --> open cmd on your folder and give this command to create an git empty reository for your folder
 git status  --- > command to check the status of your git folder
 git add ( filename)  ---> this will send your file to the staging area from working directory
+git commit -m "your comments here"   ---> this will send all files to the local Repository
+git branch  ---> to check the branches in your Repository
+git remote add origin https://github.com/......  ---> to send to the Repository
+git push -u origin yourbranchname --->  
