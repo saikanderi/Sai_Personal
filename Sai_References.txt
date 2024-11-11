@@ -1,0 +1,12 @@
+// All references for commands in terminals
+
+// GIt and Github
+
+1. Remote Repository
+2. Local Repository
+3. Staging area
+4. Working directory
+
+git init    --> open cmd on your folder and give this command to create an git empty reository for your folder
+git status  --- > command to check the status of your git folder
+git add ( filename)  ---> this will send your file to the staging area from working directory
