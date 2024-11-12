@@ -15,3 +15,9 @@ git branch  ---> to check the branches in your Repository
 git remote add origin https://github.com/......  ---> to send to the Repository
 git push -u origin yourbranchname --->  
 git checkout -b "branchname"    ---> used to swith b/w branches or to create new branch
+
+
+// Java
+
+--> If we want to generate byte code in vscode in terminal give javac (filename) it will generate byte code and then run byte code by java (filename)
+
