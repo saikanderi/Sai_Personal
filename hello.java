@@ -6,9 +6,11 @@ public class hello{
     public static void main(String args[])
     {
 
-        int a = 24542;
-        String str = String.valueOf(a);
-        System.out.println(str.reverse());
+        int a = 5;
+       double b = 13.5;
+       float c = 4.2f;
+       double result = a * b / c;
+       System.out.println(result);
 
     }
 
